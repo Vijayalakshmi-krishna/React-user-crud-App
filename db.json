@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "3",
+      "name": "Nishant",
+      "age": "8",
+      "email": "Nishant@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Saivaishnav",
+      "age": "3",
+      "email": "sai@gmail.com"
+    },
+    {
+      "name": "Vijayalakshmi",
+      "age": "32",
+      "email": "viji@gmail.com",
+      "id": 1
+    },
+    {
+      "id": "2",
+      "name": "Krishna",
+      "age": "35",
+      "email": "krish@gmail.com"
+    }
+  ]
+}
